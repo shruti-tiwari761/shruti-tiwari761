@@ -37,3 +37,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-tiwari761&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
+### 🎲 GitHub Contribution Snake Game  
+![Snake animation](https://github.com/shruti-tiwari761/shruti-tiwari761/blob/output/github-contribution-grid-snake.svg)
+
