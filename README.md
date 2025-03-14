@@ -36,7 +36,6 @@
 ## 🏆 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-tiwari761&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-tiwari761" alt="GitHub Streak Stats"/>
 </p>
 
 ---
