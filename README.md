@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">🚀 A Passionate Java Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://i.postimg.cc/zv8rZspx/image.png">
 
 ### ✨ About Me:
 - 🔭 **Currently working on:** [AI-Enhanced Career Guidance System](https://github.com/shruti-tiwari761/Ai-enhanced-career-guidance-system-using-machine-learning-and-django)  
