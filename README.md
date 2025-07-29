@@ -39,3 +39,9 @@
 </p>
 
 ---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shruti-tiwari761&theme=radical" alt="GitHub Streak"/>
+</p>
+
