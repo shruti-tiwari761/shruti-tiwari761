@@ -33,15 +33,4 @@
 
 ---
 
-## 🏆 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-tiwari761&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=shruti-tiwari761&theme=radical" alt="GitHub Streak"/>
-</p>
 
