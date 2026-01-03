@@ -53,14 +53,6 @@
 
 ---
 
-## 🔥 Streak & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shruti-tiwari761&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-
----
-
 ## 💡 Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
