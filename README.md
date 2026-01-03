@@ -53,26 +53,11 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti-tiwari761&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-tiwari761&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ## 🔥 Streak & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shruti-tiwari761&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-
----
-
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-tiwari761&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
 
 ---
 
