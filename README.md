@@ -16,7 +16,7 @@
 ## ✨ About Me  
 - 🔭 **Currently working on:** [AI-Enhanced Career Guidance System](https://github.com/shruti-tiwari761/Ai-enhanced-career-guidance-system-using-machine-learning-and-django)  
 - 🌱 **Currently learning:** Machine Learning & Django  
-- 👨‍💻 **Portfolio:** [View my work](https://main.d3bd8zqghbpahh.amplifyapp.com/)  
+- 👨‍💻 **Portfolio:** [View my work](https://shruti-tiwari.netlify.app/)  
 - 📫 **Reach me at:** **shrutitiwari4618@gmail.com**  
 
 ---
